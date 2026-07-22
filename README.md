@@ -10,7 +10,7 @@
 - [Executed user provisioning and identity management tasks inside our Microsoft Entra ID
 environment.](https://github.com/QAbugtester/User-Accounts)
 - <b>Cloud Provisioning - P2 Licensing</b>
-- [Simulated cloud-based user provisioning by assigning licenses to users within Entra ID.]()
+- [Simulated cloud-based user provisioning by assigning licenses to users within Entra ID.](https://github.com/QAbugtester/P2-License)
 - <b>Role Assignments</b>
 
 - [Assigned directory roles to enforce Role-Based Access Control (RBAC) within Entra ID and
