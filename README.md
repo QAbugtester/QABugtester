@@ -14,7 +14,7 @@ environment.](https://github.com/QAbugtester/User-Accounts)
 - <b>Role Assignments</b>
 
 - [Assigned directory roles to enforce Role-Based Access Control (RBAC) within Entra ID and
-Least Privilege.]()
+Least Privilege.](https://github.com/QAbugtester/Role-Assignments)
 - <b>Group Assignments</b>
 - [Configured security groups and assigned groups to users to enforce access within Entra
 ID.]()
