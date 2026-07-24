@@ -23,7 +23,7 @@ ID.](https://github.com/QAbugtester/Group-Assignments)
 disabling, and secure deprovisioning.](https://github.com/QAbugtester/Identity-Lifecycle)
 - <b>Audit Logs</b>
 - [Reviewed and interpreted identity activity by way of audit logs to understand access visibility
-and security tracking within Entra ID.]()
+and security tracking within Entra ID.](https://github.com/QAbugtester/Audit-Logs)
 - <b>Sign-In Logs</b>
 - [Reviewed and interpreted identity activity by way of sign-in logs to understand access
 visibility and security tracking within Entra ID.]()
