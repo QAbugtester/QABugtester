@@ -57,7 +57,7 @@ efficiently.](https://github.com/QAbugtester/Creating-groups-in-Okta)
 appropriate groups.]()
 - <b>Device Management in Okta</b>
 - [Viewed registered administrators device to see how Okta manage's trusted devices within an
-organization's identity and access management strategy.]()
+organization's identity and access management strategy.](https://github.com/QAbugtester/Device-Management-in-Okta)
 - <b>Audit Logs in Okta</b>
 - [Reviewed the Okta audit logs and reviewed administrative activity performed within the
 environment. This provided me the visibility into my administrator actions, to monitor account
