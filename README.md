@@ -44,7 +44,7 @@ accounts are fully functional and ready for use within the Okta environment.](ht
 - <b>Creating Users in Okta Manually</b>
 - [Created two new users, configured their basic profile information, and became familiar with
 the user creation process commonly used by IAM administrators when onboarding new
-employees or contractors.]()
+employees or contractors.](https://github.com/QAbugtester/Creating-users-manually-Okta)
 - <b>Add Attributes to User Profiles</b>
 - [Added and managed user attributes within Okta profiles. Updated user records with
 additional identity information, helping to prepare accounts for automated group assignments,
