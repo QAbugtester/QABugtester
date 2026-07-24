@@ -64,4 +64,4 @@ environment. This provided me the visibility into my administrator actions, to m
 activity, investigate issues, and maintain compliance.](https://github.com/QAbugtester/Audit-Logs-in-Okta)
 - <b>PowerShell</b>
 - [Inserted some basic commands, to filter and sort data, along with common administrative
-tasks that are used in IAM.]()
+tasks that are used in IAM.](https://github.com/QAbugtester/Powershell-Okta)
