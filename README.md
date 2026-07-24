@@ -26,7 +26,7 @@ disabling, and secure deprovisioning.](https://github.com/QAbugtester/Identity-L
 and security tracking within Entra ID.](https://github.com/QAbugtester/Audit-Logs)
 - <b>Sign-In Logs</b>
 - [Reviewed and interpreted identity activity by way of sign-in logs to understand access
-visibility and security tracking within Entra ID.]()
+visibility and security tracking within Entra ID.](https://github.com/QAbugtester/Sign-In-Logs)
 - <b>Authentication</b>
 - [Demonstrated authentication methods assigned to user identities such as MFA.]()
 <b>Okta Administration</b>
