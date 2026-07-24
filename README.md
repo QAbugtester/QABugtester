@@ -17,7 +17,7 @@ environment.](https://github.com/QAbugtester/User-Accounts)
 Least Privilege.](https://github.com/QAbugtester/Role-Assignments)
 - <b>Group Assignments</b>
 - [Configured security groups and assigned groups to users to enforce access within Entra
-ID.]()
+ID.](https://github.com/QAbugtester/Group-Assignments)
 - <b>Identity Lifecycle</b>
 - [Executed full identity lifecycle actions including onboarding, access modifications, account
 disabling, and secure deprovisioning.]()
