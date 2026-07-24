@@ -20,7 +20,7 @@ Least Privilege.](https://github.com/QAbugtester/Role-Assignments)
 ID.](https://github.com/QAbugtester/Group-Assignments)
 - <b>Identity Lifecycle</b>
 - [Executed full identity lifecycle actions including onboarding, access modifications, account
-disabling, and secure deprovisioning.]()
+disabling, and secure deprovisioning.](https://github.com/QAbugtester/Identity-Lifecycle)
 - <b>Audit Logs</b>
 - [Reviewed and interpreted identity activity by way of audit logs to understand access visibility
 and security tracking within Entra ID.]()
