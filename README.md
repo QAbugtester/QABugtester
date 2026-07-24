@@ -29,12 +29,14 @@ and security tracking within Entra ID.](https://github.com/QAbugtester/Audit-Log
 visibility and security tracking within Entra ID.](https://github.com/QAbugtester/Sign-In-Logs)
 - <b>Authentication</b>
 - [Demonstrated authentication methods assigned to user identities such as MFA.]()
+  
 <b>Okta Administration</b>
 - <b>Import Users from Entra ID to Okta Environment</b>
 - [Migrated users from Microsoft Entra ID into your Okta environment. Showing how the user
 import process works, allowing me to synchronize existing identities and begin managing them
 within Okta.]()
 - <b>Enrollment Provisioning in Okta</b>
+
 - [Completed user enrollment and provisioning after importing accounts from Microsoft Entra ID
 into Okta. Since imported users are initially inactive, completed the activation process by setting
 temporary passwords, logging in as users, completed enrollment requirements, and verified that
