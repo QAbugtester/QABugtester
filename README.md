@@ -48,7 +48,7 @@ employees or contractors.](https://github.com/QAbugtester/Creating-users-manuall
 - <b>Add Attributes to User Profiles</b>
 - [Added and managed user attributes within Okta profiles. Updated user records with
 additional identity information, helping to prepare accounts for automated group assignments,
-access decisions, and attribute-based administration within the Okta environment.]()
+access decisions, and attribute-based administration within the Okta environment.](https://github.com/QAbugtester/Added-Attrributes-in-User-Profiles)
 - <b>Creating Groups in Okta Environment</b>
 - [Created groups within the Okta environment to organize users and manage access more
 efficiently.]()
