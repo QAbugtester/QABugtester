@@ -28,7 +28,7 @@ and security tracking within Entra ID.](https://github.com/QAbugtester/Audit-Log
 - [Reviewed and interpreted identity activity by way of sign-in logs to understand access
 visibility and security tracking within Entra ID.](https://github.com/QAbugtester/Sign-In-Logs)
 - <b>Authentication</b>
-- [Demonstrated authentication methods assigned to user identities such as MFA.]()
+- [Demonstrated authentication methods assigned to user identities such as MFA.](https://github.com/QAbugtester/Authentication)
   
 <b>Okta Administration</b>
 - <b>Import Users from Entra ID to Okta Environment</b>
